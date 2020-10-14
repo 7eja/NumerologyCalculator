@@ -12,7 +12,8 @@ year = input("Year: ")
 print("Enter your name \n")
 name = input()
 
-save_path = "D:\\Documents_Sep2020\\Python_code_results\\NumerologyReports"
+save_path = ""
+# Set the path to save the text files.
 fname = name + ".txt"
 cname = os.path.join(save_path, fname)
 note = open(cname, "w+")
