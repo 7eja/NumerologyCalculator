@@ -16,3 +16,13 @@ If ex: C:\Documents\NumerologyReports\ is where you want to save,
 Enter as follows:
 save_path = "C:\\Documents\\NumerologyReports"
 The name of the file will be the name you entered at the location above.
+
+You will be asked (after running NumerologyCalculator.py)
+
+Day:
+Month:
+Year:
+
+Enter your name 
+
+
