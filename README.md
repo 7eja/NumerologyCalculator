@@ -8,7 +8,7 @@ The parameters calculated are:
 4. Expression number,
 5. Soul urge number,
 6. Intensity number table.
-7. Essence table.
+7. Essence table. 
 
 Open NumerologyCalculator.py file in any Python IDE and search for variable 'save_path'. 
 Set the folder location where you want your reports to be saved.
