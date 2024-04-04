@@ -19,7 +19,7 @@ The name of the file will be the name you entered at the location above.
 
 You will be asked (after running NumerologyCalculator.py)
 
-Day:
+Day:  
 Month:
 Year:
 
