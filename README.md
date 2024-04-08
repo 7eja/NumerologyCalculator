@@ -14,7 +14,9 @@ Open NumerologyCalculator.py file in any Python IDE and search for variable 'sav
 Set the folder location where you want your reports to be saved.
 If ex: C:\Documents\NumerologyReports\ is where you want to save,
 Enter as follows:
-save_path = "C: "\ \" Documents "\ \" NumerologyReports"
+![image](https://github.com/7eja/NumerologyCalculator/assets/72879102/8118b312-0344-41d1-aef3-07f3b98ae1b6)
+
+save_path = "C:\\Documents\\NumerologyReports"
 
 The name of the file will be the name you entered at the location above.
 
